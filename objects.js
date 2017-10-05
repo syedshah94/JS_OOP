@@ -85,7 +85,7 @@ console.log("\n");
 
 
 
-//More "advanced" topics
+//More "advanced" topics (Yet to be completed with notes explaining every line, but mostly done)
 // ------------------------------PROTOTYPES---------------------------
 
 function Rectangle (height, width) {
